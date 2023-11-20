@@ -44,80 +44,80 @@ Some technologies/tools that I am aware of:
 <p align="center">
     <a href="https://www.javascript.com/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-javascript.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-javascript.svg" 
             alt="logo JavaScript"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://www.typescriptlang.org/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-typescript.png"
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-typescript.png"
             alt="logo Typescript"
             width="56px">
     </a>
     <a href="http://www.ecma-international.org/ecma-262/6.0/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-ecmascript6.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-ecmascript6.svg" 
             alt="logo ECS6"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-css3.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-css3.svg" 
             alt="logo CSS3"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-html5.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-html5.svg" 
             alt="logo HTML5"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://reactjs.org/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-react.svg"
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-react.svg"
             alt="logo React"
             width="50px"
             style="border-radius: 8px;">
     </a>
      <a href="https://storybook.js.org/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-storybook.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-storybook.svg" 
             alt="logo Storybook"
             width="50px">
     </a>
      <a href="https://nextjs.org/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-nextjs.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-nextjs.svg" 
             alt="logo NextJs"
             width="50px">
     </a>
     <a href="https://nodejs.org/en/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-nodejs.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-nodejs.svg" 
             alt="logo Node.js"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://expressjs.com/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-express2.png" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-express2.png" 
             alt="logo express"
             width="100px">
     </a>
     </br>
     <a href="https://git-scm.com/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-git.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-git.svg" 
             alt="logo git"
             width="50px">
     </a>
     <a href="https://code.visualstudio.com/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/master/assets/icon-vscode.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-vscode.svg" 
             alt="logo Vscode"
             width="50px">
     </a>
