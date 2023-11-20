@@ -4,8 +4,8 @@
 
 <p align="center">
     <img 
-        style="border-radius: 50%;" 
-        src="https://avatars.githubusercontent.com/u/69859248?v=4" 
+        style="border-radius: 50%;"
+        src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/img-profile.png" 
         width="120px;" 
         alt="Foto Cadu">
     <br/>
@@ -85,13 +85,13 @@ Some technologies/tools that I am aware of:
     </a>
      <a href="https://storybook.js.org/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-storybook.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-storybook.png" 
             alt="logo Storybook"
             width="50px">
     </a>
      <a href="https://nextjs.org/">
         <img 
-            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-nextjs.svg" 
+            src="https://github.com/CaduOlegario/CaduOlegario/blob/main/assets/icon-nextjs.png" 
             alt="logo NextJs"
             width="50px">
     </a>
