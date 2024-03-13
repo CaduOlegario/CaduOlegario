@@ -17,7 +17,7 @@
 </h6>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/carlos-eduardo-oleg%C3%A1rio-0a36171b5/">
+    <a href="https://linkedin.com/in/caduolegario/">
         <img 
             alt="Linkedin Cadu Olegário" 
             src="https://img.shields.io/badge/-Cadu%20Oleg%C3%A1rio-%230077b5?style=flat-square&logo=linkedin">
